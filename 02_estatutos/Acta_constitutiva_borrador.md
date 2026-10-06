@@ -4,7 +4,7 @@
 
 ---
 
-En Estación Central, a [día] de [mes] de [año], siendo las [hora] horas, en [lugar: Secretaría Municipal, Alameda 3920 / notaría / otro], ante [nombre del ministro de fe], [cargo: funcionario municipal autorizado por el Alcalde mediante Decreto N° ___ / Notario Público / Oficial del Registro Civil], comparecen:
+En Estación Central, a [día] de [mes] de [año], siendo las [hora] horas, en [lugar: Secretaría Municipal, Av. Libertador Bernardo O'Higgins 3920, 2° piso / notaría / otro], ante [nombre del ministro de fe], [cargo: funcionario municipal autorizado por el Alcalde mediante Decreto N° ___ / Notario Público / Oficial del Registro Civil], comparecen:
 
 1. **[NOMBRE COMPLETO]**, chilena/o, [estado civil], [profesión u oficio], cédula de identidad N° [___], domiciliada/o en [dirección], comuna de [___];
 2. **[NOMBRE COMPLETO]**, [...]
@@ -18,7 +18,7 @@ mayores de edad, quienes exponen:
 
 **SEGUNDO. Antecedentes.** Que la Fundación da continuidad institucional a la Escuela Comunitaria de Verano Vientos de Chuchunko, iniciativa de educación socioambiental facilitada por jóvenes de Estación Central y desarrollada desde 2026 con niñas, niños y adolescentes de la Población Los Nogales, en colaboración con el Centro de Apoyo y Colaboración Jóvenes del Barrio, el Comité Ambiental Comunal de Estación Central y otras organizaciones.
 
-**TERCERO. Patrimonio inicial.** Que las personas fundadoras aportan a la Fundación, en este acto, la suma total de **$[___]**, en la forma indicada en el artículo 7 de los estatutos, la que será depositada en la cuenta bancaria de la Fundación una vez obtenida su personalidad jurídica. *(Si hay especies, detallarlas.)*
+**TERCERO. Patrimonio inicial.** Que las personas fundadoras destinan y se obligan a aportar a la Fundación la suma total de **$[___]**, en la forma indicada en el artículo 7 de los estatutos, tan pronto se inscriba en el Registro Nacional de Personas Jurídicas sin Fines de Lucro, mediante depósito en la cuenta bancaria de la Fundación. *(Si hay especies, detallarlas.)*
 
 **CUARTO. Aprobación de estatutos.** Que aprueban los siguientes estatutos:
 

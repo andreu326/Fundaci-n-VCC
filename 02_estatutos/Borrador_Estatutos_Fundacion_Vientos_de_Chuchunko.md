@@ -6,6 +6,8 @@
 >
 > Las cláusulas que agregan contenido propio de Vientos de Chuchunko (consejos de juventudes y niñeces, protección de NNA, adaptación liderada localmente, alianzas) están marcadas con **[PROPIA]**. Son legales, pero al no venir del modelo pueden recibir observaciones; si eso pasa, se pueden trasladar al Reglamento Interno sin perder su fuerza interna.
 >
+> **Actualización:** la Municipalidad de Estación Central no publica un estatuto tipo propio para fundaciones. Usa los modelos del Ministerio de Justicia. La fórmula del patrimonio (art. 7) ya está ajustada a la redacción del artículo quinto del modelo 1610.
+>
 > Los espacios **[___]** se completan con datos reales.
 
 ---
@@ -53,7 +55,7 @@ f) **Transparencia y rendición de cuentas** ante la comunidad, los financistas 
 ## TÍTULO SEGUNDO
 ### Del patrimonio
 
-**Artículo 7. Patrimonio inicial.** El patrimonio inicial de la Fundación está formado por la suma de **$[___] ([___] pesos)**, que la o las personas fundadoras aportan en dinero efectivo en este acto, en la siguiente proporción: [NOMBRE FUNDADOR/A 1], $[___]; [NOMBRE FUNDADOR/A 2], $[___]; [___]. *(Opcional:)* Se aportan además las siguientes especies: [materiales pedagógicos, herramientas de huerto, equipamiento, avaluados en $___].
+**Artículo 7. Patrimonio inicial.** El patrimonio inicial de la Fundación está formado por la suma de **$[___] ([___] pesos)**, que la o las personas fundadoras destinan y se obligan a aportar a la Fundación tan pronto se inscriba en el Registro Nacional de Personas Jurídicas sin Fines de Lucro, en la siguiente proporción: [NOMBRE FUNDADOR/A 1], $[___]; [NOMBRE FUNDADOR/A 2], $[___]; [___]. *(Opcional:)* Se aportan además las siguientes especies: [materiales pedagógicos, herramientas de huerto, equipamiento, avaluados en $___].
 
 **Artículo 8. Patrimonio.** El patrimonio de la Fundación estará formado, además, por:
 

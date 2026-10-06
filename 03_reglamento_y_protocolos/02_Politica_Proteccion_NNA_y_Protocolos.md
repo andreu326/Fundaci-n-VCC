@@ -96,7 +96,7 @@ Se aprueba en la primera sesión del Directorio y se firma por toda persona que 
 | SAMU | Urgencia de salud | **131** |
 | Fiscalía | Denuncia de delito | Fiscalía Local correspondiente **[COMPLETAR]** |
 | Fono Niños (Carabineros) | Orientación, gratuito | **147** |
-| **OLN Estación Central** | Situaciones medias o leves, y siempre ante dudas | **[COMPLETAR teléfono, correo y dirección]** |
+| **OLN Estación Central** | Situaciones medias o leves, y siempre ante dudas | Obispo Umaña 159 · **+56 9 5372 2413** · oln@muniestacioncentral.cl **[verificar vigencia]** |
 | Oficina de Juventudes y Niñeces de Estación Central | Coordinación | **[COMPLETAR]** |
 | CESFAM Padre Vicente Irarrázaval | Derivación de salud | **[COMPLETAR]** |
 | Encargada/o de Protección de la Fundación | Siempre | **[NOMBRE · TELÉFONO]** |

@@ -4,6 +4,18 @@
 **Marco legal:** Título XXXIII del Libro I del Código Civil (arts. 545 a 564), modificado por la Ley 20.500 (2011), y Ley 20.500 en lo relativo al Registro Nacional de Personas Jurídicas sin Fines de Lucro.
 **Versión:** borrador 0.1 · 6 de octubre de 2026
 
+## Datos de contacto (encontrados en búsqueda web, octubre 2026)
+
+| Oficina | Datos |
+|---|---|
+| **Secretaría Municipal de Estación Central** | Av. Libertador Bernardo O'Higgins 3920, **2° piso**, Estación Central · Tel. **(2) 2321 3672** · **secmu@ecentral.cl** · Lunes a viernes, **09:00 a 14:00** |
+| Secretario municipal (2026) | **Nicolás Juan Jara Jara** (actúa como ministro de fe del COSOC en la sesión del 6 de mayo de 2026) |
+| Oficina de Organizaciones Comunitarias | Los Alerces 154 · +56 9 7490 6650 · organizacionescomunitarias@ecentral.cl (atiende sobre todo organizaciones de la Ley 19.418, como Jóvenes del Barrio) |
+
+> **Sobre "los estatutos de ecentral".** Revisé todo lo que se puede encontrar en línea: la Municipalidad de Estación Central **no publica un estatuto tipo propio para fundaciones**. Lo que publica y usa como referencia la Secretaría Municipal son los **modelos del Ministerio de Justicia**. Para fundaciones ese modelo es la **Res. Ex. N° 1610 de 2012**, y nuestro borrador sigue su estructura. Lo que sí hay que pedir en ventanilla es el formulario de ingreso y la lista de documentos. Tienen que escribir a secmu@ecentral.cl o ir en persona.
+>
+> Lo que se pudo confirmar del modelo 1610: (1) la fundación se declara "de beneficencia, sin fines de lucro", regida por el Título XXXIII del Libro I del Código Civil y la Ley 20.500; (2) en el **artículo quinto**, el patrimonio es una suma que el fundador "destina y se obliga a aportar a la Fundación tan pronto se inscriba en el Registro Nacional de Personas Jurídicas sin Fines de Lucro"; (3) el Directorio tiene Presidente, Secretario y Tesorero (mínimo 3), y el Vicepresidente es opcional.
+
 > **Antes de usar esta guía.** El sitio de la Municipalidad (ecentral.cl), el del Ministerio de Justicia y ChileAtiende no se pudieron abrir desde el entorno donde se preparó este documento. Los pasos siguen la ley y la práctica de otras secretarías municipales de la RM. Todo lo marcado con **[VERIFICAR]** hay que confirmarlo en la Secretaría Municipal de Estación Central antes de firmar.
 
 ---
@@ -64,7 +76,7 @@ El acto constitutivo (acta de constitución + estatutos + designación del prime
 - **Escritura pública** ante notario, **o**
 - **Instrumento privado** firmado ante **notario**, **oficial del Registro Civil** o **funcionario municipal autorizado por el alcalde**.
 
-**Recomendación:** hacerlo ante el **ministro de fe municipal** de Estación Central. Es gratuito. **[VERIFICAR día, hora y si hay que pedir cita por Oficina de Partes, Alameda 3920.]** Si se va a notaría, el costo de una escritura pública ronda decenas de miles de pesos.
+**Recomendación:** hacerlo ante el **ministro de fe municipal** de Estación Central. Es gratuito. **[VERIFICAR por correo a secmu@ecentral.cl o al (2) 2321 3672 qué día atiende el ministro de fe y si hay que pedir hora. Atención de lunes a viernes, 09:00 a 14:00, Av. Libertador Bernardo O'Higgins 3920, 2° piso.]** Si se va a notaría, el costo de una escritura pública ronda decenas de miles de pesos.
 
 Deben firmar: todas las personas fundadoras y las y los integrantes del primer Directorio (aceptando el cargo), más la persona a la que se le da poder para tramitar.
 
@@ -72,7 +84,7 @@ Borrador del acta: `02_estatutos/Acta_constitutiva_borrador.md`.
 
 ### Paso 3 · Depósito en la Secretaría Municipal (plazo: 30 días)
 
-Dentro de **30 días** desde la firma, depositar en la **Secretaría Municipal de Estación Central** una **copia autorizada** del acto constitutivo (art. 548 CC). Si se pasa el plazo, hay que volver a firmar.
+Dentro de **30 días** desde la firma, depositar en la **Secretaría Municipal de Estación Central** (O'Higgins 3920, 2° piso, de 09:00 a 14:00) una **copia autorizada** del acto constitutivo (art. 548 CC). Si se pasa el plazo, hay que volver a firmar.
 
 Documentos que normalmente se piden (ver checklist completo en `Checklist_documentos.md`):
 
@@ -88,6 +100,7 @@ Documentos que normalmente se piden (ver checklist completo en `Checklist_docume
 - La Secretaría Municipal tiene **30 días** desde el depósito para **objetar** la constitución si no se cumplen requisitos legales.
 - **No puede objetar cláusulas que reproduzcan los modelos de estatutos aprobados por el Ministerio de Justicia** (art. 548 inc. 3 CC). Por eso el borrador sigue la estructura del modelo de la **Res. Ex. N° 1610 de 2012** y marca dónde se aparta.
 - Contraloría ha dicho que el municipio **solo puede exigir lo que la ley exige**; no puede pedir ajustes adicionales por preferencia propia (dictamen sobre Fundación Pro Bono, 2025).
+- Las objeciones se notifican **por carta certificada** (art. 548 CC). Si pasan los 30 días sin notificación, se entiende que no hay objeción y la Secretaría remite los antecedentes al Registro Civil. Algunas minutas municipales hablan de 20 días; vale el plazo del Código Civil.
 - Si hay observaciones: se notifican; la fundación tiene **30 días** para subsanarlas (con una nueva escritura o acta de modificación). **[VERIFICAR plazo exacto en la notificación.]**
 
 ### Paso 5 · Inscripción en el Registro Civil
