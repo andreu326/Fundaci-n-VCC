@@ -2,7 +2,7 @@
 
 **Comuna:** Estación Central, Región Metropolitana
 **Marco legal:** Título XXXIII del Libro I del Código Civil (arts. 545 a 564), modificado por la Ley 20.500 (2011), y Ley 20.500 en lo relativo al Registro Nacional de Personas Jurídicas sin Fines de Lucro.
-**Versión:** borrador 0.1 · 6 de octubre de 2026
+**Versión:** borrador 0.2 · 7 de octubre de 2026
 
 ## Datos de contacto (encontrados en búsqueda web, octubre 2026)
 
@@ -12,8 +12,12 @@
 | Secretario municipal (2026) | **Nicolás Juan Jara Jara** (actúa como ministro de fe del COSOC en la sesión del 6 de mayo de 2026) |
 | Oficina de Organizaciones Comunitarias | Los Alerces 154 · +56 9 7490 6650 · organizacionescomunitarias@ecentral.cl (atiende sobre todo organizaciones de la Ley 19.418, como Jóvenes del Barrio) |
 
-> **Sobre "los estatutos de ecentral".** Revisé todo lo que se puede encontrar en línea: la Municipalidad de Estación Central **no publica un estatuto tipo propio para fundaciones**. Lo que publica y usa como referencia la Secretaría Municipal son los **modelos del Ministerio de Justicia**. Para fundaciones ese modelo es la **Res. Ex. N° 1610 de 2012**, y nuestro borrador sigue su estructura. Lo que sí hay que pedir en ventanilla es el formulario de ingreso y la lista de documentos. Tienen que escribir a secmu@ecentral.cl o ir en persona.
+> **Sobre "los estatutos de ecentral" (actualizado 7-oct-2026).** La Secretaría Municipal tiene un **sitio propio, distinto de ecentral.cl: https://secretariaecentral.cl**. En **https://secretariaecentral.cl/estatutos/** publica para descargar "los formatos de estatutos más usados". Según lo que muestra el buscador, son modelos para **organizaciones comunitarias (Ley 19.418)**: funcionales, uniones comunales, juntas de vecinos y clubes de adulto mayor. **No se pudo confirmar si hay uno para fundaciones**, porque el sitio está bloqueado desde el entorno de trabajo y el buscador no muestra los links de descarga. El mismo sitio dice que, si el tipo de organización no aparece, hay que acercarse a la Secretaría.
 >
+> Páginas relacionadas del mismo sitio: [Creación de Personas Jurídicas](https://secretariaecentral.cl/creacion-de-personas-juridicas/), [Modificación de Estatutos](https://secretariaecentral.cl/modificacion-de-estatutos/), [Cambio de domicilio de PJ](https://secretariaecentral.cl/cambio-de-domicilio-de-personas-juridicas/), [Información destacada](https://secretariaecentral.cl/informacion-destacada/) y [Contacto](https://secretariaecentral.cl/contacto/).
+>
+> **Tarea pendiente para el equipo:** abrir secretariaecentral.cl/estatutos/ desde un navegador normal. Si hay un formato de **fundación**, descargarlo y subirlo a la carpeta `01_tramite/` para comparar el borrador artículo por artículo. Si no lo hay, se usa el modelo del Ministerio de Justicia, **Res. Ex. N° 1610 de 2012**, que es el que sigue nuestro borrador.
+
 > Lo que se pudo confirmar del modelo 1610: (1) la fundación se declara "de beneficencia, sin fines de lucro", regida por el Título XXXIII del Libro I del Código Civil y la Ley 20.500; (2) en el **artículo quinto**, el patrimonio es una suma que el fundador "destina y se obliga a aportar a la Fundación tan pronto se inscriba en el Registro Nacional de Personas Jurídicas sin Fines de Lucro"; (3) el Directorio tiene Presidente, Secretario y Tesorero (mínimo 3), y el Vicepresidente es opcional.
 
 > **Antes de usar esta guía.** El sitio de la Municipalidad (ecentral.cl), el del Ministerio de Justicia y ChileAtiende no se pudieron abrir desde el entorno donde se preparó este documento. Los pasos siguen la ley y la práctica de otras secretarías municipales de la RM. Todo lo marcado con **[VERIFICAR]** hay que confirmarlo en la Secretaría Municipal de Estación Central antes de firmar.
@@ -133,13 +137,13 @@ Documentos que normalmente se piden (ver checklist completo en `Checklist_docume
 
 ## 4. Quién no puede integrar el Directorio
 
-Según el Código Civil (art. 551-1) y el borrador de estatutos, no pueden ser directoras o directores las personas condenadas por crimen o simple delito en los últimos años que fija la ley **[VERIFICAR redacción vigente]**. Además, por decisión de la fundación y por la naturaleza del trabajo con NNA (Ley 20.594 y Ley 21.430), **no puede integrar ningún órgano ni hacer voluntariado** quien figure en el Registro de Inhabilidades para trabajar con menores de edad o tenga condena por delitos contra NNA o violencia intrafamiliar.
+Según el Código Civil (art. 551 inc. 2°, aplicable a las fundaciones por el art. 563), **no pueden ser directoras o directores las personas condenadas a pena aflictiva**. Además, quien sea condenado por crimen o simple delito durante su período cesa en el cargo (art. 551 inc. 3°). El mandato del directorio puede durar hasta 5 años y el mínimo es de 3 integrantes. Además, por decisión de la fundación y por la naturaleza del trabajo con NNA (Ley 20.594 y Ley 21.430), **no puede integrar ningún órgano ni hacer voluntariado** quien figure en el Registro de Inhabilidades para trabajar con menores de edad o tenga condena por delitos contra NNA o violencia intrafamiliar.
 
 ---
 
 ## 5. Patrimonio inicial
 
-- La ley exige que los estatutos de una fundación indiquen **los bienes o derechos que aporta la persona fundadora** y las reglas para aplicar los recursos a los fines (art. 548-1 CC y siguientes).
+- La ley exige que los estatutos de una fundación indiquen **los bienes o derechos que aporta la persona fundadora** y las reglas básicas para aplicar los recursos a los fines y para determinar a las personas beneficiarias (art. 548-2 CC, letra d e inciso final).
 - No hay monto mínimo fijo en la ley, pero el patrimonio debe ser coherente con los fines. **[VERIFICAR con la Secretaría Municipal qué monto han aceptado en otras fundaciones; consultar si aceptan un aporte modesto en dinero, p. ej. entre $300.000 y $1.000.000, más especies (materiales pedagógicos, herramientas de huerto).]**
 - El borrador deja el monto en blanco.
 
@@ -179,7 +183,8 @@ Si la meta es tener PJ antes de la Escuela de Verano de febrero de 2027, la firm
 - Código Civil, Título XXXIII del Libro I, arts. 545–564 (texto vigente tras Ley 20.500).
 - Ley 20.500 sobre Asociaciones y Participación Ciudadana en la Gestión Pública — https://msgg.gob.cl/wp/ley-20-500/
 - Ministerio de Justicia, Res. Ex. N° 1610 (2012), modelo de estatuto de fundación — https://www.minjusticia.gob.cl/media/2015/06/rs_ex_1610.pdf y https://www.minjusticia.gob.cl/modelos-estatutos-asociaciones-y-fundaciones/
-- Secretaría Municipal de Estación Central — https://www.ecentral.cl/guia-de-tramites/secretaria-municipal/secretaria-municipal/
+- Secretaría Municipal de Estación Central — https://www.ecentral.cl/guia-de-tramites/secretaria-municipal/secretaria-municipal/ y sitio propio https://secretariaecentral.cl/estatutos/
+- Código Civil, art. 551 (inhabilidades de directores) — https://leyes-cl.com/codigo_civil/551.htm
 - Diario Constitucional, dictamen de Contraloría sobre Fundación Pro Bono (oct. 2025) — https://www.diarioconstitucional.cl/2025/10/07/fundacion-pro-bono-contraloria-aclara-que-la-municipalidad-no-puede-exigir-ajustes-adicionales-a-estatutos-para-cambio-de-domicilio/
 - ChileAtiende, Registro de personas jurídicas sin fines de lucro — https://www.chileatiende.gob.cl/fichas/11333
 - Documentos internos: "De las colonias a la casa" v2.0 (19-ago-2026), perfiles del radar de oportunidades (26-ago-2026).

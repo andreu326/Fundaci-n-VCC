@@ -6,7 +6,7 @@
 >
 > Las cláusulas que agregan contenido propio de Vientos de Chuchunko (consejos de juventudes y niñeces, protección de NNA, adaptación liderada localmente, alianzas) están marcadas con **[PROPIA]**. Son legales, pero al no venir del modelo pueden recibir observaciones; si eso pasa, se pueden trasladar al Reglamento Interno sin perder su fuerza interna.
 >
-> **Actualización:** la Municipalidad de Estación Central no publica un estatuto tipo propio para fundaciones. Usa los modelos del Ministerio de Justicia. La fórmula del patrimonio (art. 7) ya está ajustada a la redacción del artículo quinto del modelo 1610.
+> **Actualización (7-oct-2026):** la Secretaría Municipal publica formatos de estatutos en https://secretariaecentral.cl/estatutos/. Según el buscador, son para organizaciones comunitarias. Falta confirmar si incluye uno de fundación; si no lo hay, rige el modelo del Ministerio de Justicia. La fórmula del patrimonio (art. 7) ya está ajustada a la redacción del artículo quinto del modelo 1610.
 >
 > Los espacios **[___]** se completan con datos reales.
 
@@ -48,7 +48,7 @@ d) **Gratuidad y no discriminación:** las actividades dirigidas a niños, niña
 e) **Cuidado de la naturaleza** y justicia climática;
 f) **Transparencia y rendición de cuentas** ante la comunidad, los financistas y la autoridad.
 
-**Artículo 6. Beneficiarios. [Exigido por el art. 548-1 CC para fundaciones]** Serán beneficiarios de la Fundación los niños, niñas, adolescentes y jóvenes, sus familias y las comunidades de los territorios donde ella actúe, con preferencia los de la comuna de Estación Central. El Directorio determinará, mediante reglamento, los criterios de selección de beneficiarios para cada programa, procurando priorizar a quienes viven en barrios con menor acceso a áreas verdes, espacios de recreación y oportunidades educativas, y sin que la selección pueda fundarse en discriminaciones arbitrarias.
+**Artículo 6. Beneficiarios. [Exigido por el art. 548-2 inc. final CC para fundaciones]** Serán beneficiarios de la Fundación los niños, niñas, adolescentes y jóvenes, sus familias y las comunidades de los territorios donde ella actúe, con preferencia los de la comuna de Estación Central. El Directorio determinará, mediante reglamento, los criterios de selección de beneficiarios para cada programa, procurando priorizar a quienes viven en barrios con menor acceso a áreas verdes, espacios de recreación y oportunidades educativas, y sin que la selección pueda fundarse en discriminaciones arbitrarias.
 
 ---
 
@@ -79,7 +79,7 @@ d) Los ingresos provenientes de sus actividades, servicios y publicaciones.
 
 Las vacantes y las renovaciones serán provistas por el propio Directorio, por la mayoría absoluta de sus miembros en ejercicio. **[PROPIA]** Para proveer al menos **dos** de los cinco cargos, el Directorio deberá elegir entre una terna propuesta por el **Consejo de Juventudes**, integrada por personas mayores de 18 años que hayan participado activamente como monitoras, monitores o voluntarias de la Fundación durante al menos un año. Si el Consejo no presenta la terna dentro de treinta días desde que se le solicite, el Directorio proveerá libremente el cargo.
 
-**Artículo 13. Requisitos e inhabilidades.** Para ser director se requiere ser mayor de edad, tener plena capacidad y no haber sido condenado por crimen o simple delito en los términos del artículo 551-1 del Código Civil. **[PROPIA]** No podrá ser director, ni integrar los consejos de la Fundación, ni desempeñarse como trabajador o voluntario en ella, quien esté inhabilitado para trabajar con menores de edad conforme a la Ley N° 20.594, o haya sido condenado por delitos contra la indemnidad o libertad sexual, por maltrato de niños, niñas o adolescentes o por violencia intrafamiliar.
+**Artículo 13. Requisitos e inhabilidades.** Para ser director se requiere ser mayor de edad, tener plena capacidad y no haber sido condenado a pena aflictiva, conforme al artículo 551 del Código Civil. El director que durante su período fuere condenado por crimen o simple delito, o incurriere en alguna inhabilidad legal o de estos estatutos, cesará en su cargo y el Directorio nombrará a su reemplazante por el tiempo que falte. **[PROPIA]** No podrá ser director, ni integrar los consejos de la Fundación, ni desempeñarse como trabajador o voluntario en ella, quien esté inhabilitado para trabajar con menores de edad conforme a la Ley N° 20.594, o haya sido condenado por delitos contra la indemnidad o libertad sexual, por maltrato de niños, niñas o adolescentes o por violencia intrafamiliar.
 
 **Artículo 14. Cargos.** En su primera sesión, el Directorio elegirá de entre sus miembros un Presidente, un Secretario y un Tesorero. Los demás serán directores.
 

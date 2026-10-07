@@ -21,7 +21,7 @@ Documentación de trabajo para constituir la **Fundación Vientos de Chuchunko**
 ## Próximos pasos sugeridos
 
 1. Equipo fundador lee y comenta los estatutos (sobre todo: quiénes son fundadores, monto del patrimonio, 5 directores, art. 12 ternas del Consejo de Juventudes, art. 30 destino de bienes).
-2. Escribir a **secmu@ecentral.cl**, llamar al **(2) 2321 3672** o ir a O'Higgins 3920, 2° piso (de lunes a viernes, 09:00 a 14:00) con las preguntas de la guía §7 y pedir el formulario de ingreso. La Municipalidad no publica un estatuto tipo propio para fundaciones: se usa el modelo del Ministerio de Justicia (Res. Ex. 1610/2012).
+2. Escribir a **secmu@ecentral.cl**, llamar al **(2) 2321 3672** o ir a O'Higgins 3920, 2° piso (de lunes a viernes, 09:00 a 14:00) con las preguntas de la guía §7 y pedir el formulario de ingreso. Antes, revisar https://secretariaecentral.cl/estatutos/ (sitio propio de la Secretaría con formatos de estatutos para descargar) y ver si hay uno de fundación; si no, se usa el modelo del Ministerio de Justicia (Res. Ex. 1610/2012).
 3. Ajustar el borrador con lo que digan y comparar contra el texto oficial del modelo MinJusticia.
 4. Revisión legal gratuita (clínicas jurídicas universitarias o Fundación Pro Bono).
 5. Firma ante ministro de fe municipal → depósito dentro de 30 días.

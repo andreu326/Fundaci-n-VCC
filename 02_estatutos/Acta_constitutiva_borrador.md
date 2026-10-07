@@ -60,7 +60,7 @@ ______________________________
 
 Yo, [NOMBRE], cédula de identidad N° [___], domiciliada/o en [___], declaro bajo juramento:
 
-1. Que no he sido condenada/o por crimen o simple delito que me inhabilite para integrar el Directorio de una persona jurídica sin fines de lucro conforme al artículo 551-1 del Código Civil.
+1. Que no he sido condenada/o a pena aflictiva, y que no me afecta ninguna otra inhabilidad para integrar el Directorio de una persona jurídica sin fines de lucro conforme a los artículos 551 y 563 del Código Civil.
 2. Que no figuro en el Registro de Inhabilidades para trabajar con menores de edad (Ley N° 20.594), ni he sido condenada/o por delitos contra la indemnidad o libertad sexual, maltrato de niños, niñas o adolescentes o violencia intrafamiliar.
 3. Que acepto el cargo de [cargo] en el Directorio de la Fundación Vientos de Chuchunko.
 
