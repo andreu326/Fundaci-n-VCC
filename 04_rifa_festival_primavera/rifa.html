@@ -11,85 +11,89 @@
 
   :root {
     --tinta: #2a1d14;
-    --suave: #6b5a4a;
-    --linea: #e2d5c2;
-    --crema: #fbf6ee;
+    --linea: rgba(42, 29, 20, .16);
   }
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  html, body { width: 215.9mm; height: 279.4mm; background: var(--crema); }
+  html, body { width: 215.9mm; height: 279.4mm; }
   body {
     -webkit-print-color-adjust: exact; print-color-adjust: exact;
-    color: var(--tinta);
     font-family: "Gurajada", sans-serif;
+    color: #fff;
+    /* El fondo clásico del festival, a toda la hoja */
+    background: #ef6812 url("assets/fondo-clasico.png") center / cover no-repeat;
   }
 
   .hoja {
     width: 215.9mm; height: 279.4mm;
-    padding: 7mm;
-    display: flex; flex-direction: column; align-items: center;
+    padding: 10mm 12mm 9mm;
+    display: flex; flex-direction: column;
   }
 
-  /* ---------- Encabezado: el fondo de cuadros del festival ---------- */
+  /* ---------- Texto encima del fondo ---------- */
   .cabeza {
-    position: relative;
-    width: 100%; height: 80mm;
-    border-radius: 5mm;
-    overflow: hidden;
-    background: url("assets/fondo-03-franjas.png") center 42% / cover no-repeat;
-    color: #fff;
-    padding: 5mm 8mm;
     display: flex; align-items: center; justify-content: space-between;
+    height: 62mm;
   }
-  .logo { display: block; height: 70mm; margin-left: -2mm; }
+  .logo { height: 60mm; margin-left: -3mm; }
   .lado {
-    height: 100%;
+    align-self: stretch;
     display: flex; flex-direction: column; align-items: flex-end; justify-content: space-between;
     text-align: right; font-family: "Krona One", sans-serif;
-    padding: 1mm 0 1mm;
   }
-  .jdb { width: 20mm; }
-  .rifa { font-size: 40pt; line-height: .9; letter-spacing: .4mm; }
+  .jdb { width: 19mm; }
+  .rifa { font-size: 42pt; line-height: .9; letter-spacing: .4mm; }
   .rango { font-size: 10.5pt; margin-top: 2.5mm; letter-spacing: .3mm; }
   .monto { font-size: 26pt; line-height: 1; margin-top: 5mm; }
   .por { font-size: 9.5pt; margin-top: 1.5mm; letter-spacing: .3mm; }
 
-  /* ---------- Instrucciones ---------- */
   .instrucciones {
-    margin-top: 5mm; width: 160mm;
-    text-align: center; font-size: 14pt; line-height: 1.05;
+    margin-top: 4mm;
+    text-align: center; font-size: 14.5pt; line-height: 1.05; text-transform: uppercase;
   }
   .sorteo {
-    margin-top: 3.5mm;
+    margin: 2.5mm auto 0;
     display: flex; align-items: flex-end; gap: 2mm;
-    font-size: 14pt; line-height: 1; text-transform: uppercase; color: #EF6812;
+    font-size: 14.5pt; line-height: 1; text-transform: uppercase;
   }
-  .sorteo .raya { width: 70mm; border-bottom: .35mm solid #EF6812; height: 4mm; }
+  .sorteo .raya { width: 70mm; border-bottom: .4mm solid #fff; height: 4mm; }
 
-  /* ---------- Grilla de números ---------- */
+  /* ---------- Rectángulo blanco con la marca de agua ---------- */
+  .tablero {
+    position: relative;
+    margin-top: 5mm; flex: 1;
+    border-radius: 5mm;
+    overflow: hidden;
+    background: #fff;
+    padding: 4mm;
+  }
+  .tablero::before {
+    content: "";
+    position: absolute; inset: 0;
+    background: url("assets/fondo-clasico.png") center / cover no-repeat;
+    opacity: .2;
+  }
   .grilla {
-    margin-top: 5mm;
-    width: 170mm; flex: 1;
+    position: relative;
+    height: 100%;
     display: grid;
     grid-template-columns: repeat(10, 1fr);
     grid-template-rows: repeat(15, 1fr);
-    background: #fff;
-    border-top: .35mm solid var(--linea);
-    border-left: .35mm solid var(--linea);
+    border-top: .3mm solid var(--linea);
+    border-left: .3mm solid var(--linea);
   }
   .n {
     display: flex; align-items: center; justify-content: center;
-    border-right: .35mm solid var(--linea);
-    border-bottom: .35mm solid var(--linea);
+    border-right: .3mm solid var(--linea);
+    border-bottom: .3mm solid var(--linea);
     font-family: "Krona One", sans-serif; font-size: 10.5pt; letter-spacing: .2mm;
+    color: var(--tinta);
   }
 
-  /* ---------- Pie ---------- */
   .pie {
-    margin-top: 5mm; width: 160mm;
-    text-align: center; font-size: 12.5pt; line-height: 1.05; color: var(--suave);
+    margin-top: 4mm;
+    text-align: center; font-size: 15pt; line-height: 1.05; text-transform: uppercase;
   }
-  .pie strong { color: var(--tinta); font-weight: 400; }
 </style>
 </head>
 <body>
@@ -109,38 +113,27 @@
   </header>
 
   <p class="instrucciones">
-    Elige uno o más números disponibles de la grilla y deja tu nombre y contacto con quien te vende.
+    Elige uno o más números, deja tu nombre y contacto con quien te vende.<br>
     Una vez pagado, el número queda reservado para ti en el sorteo.
   </p>
 
   <div class="sorteo">Sorteo <span class="raya"></span></div>
 
-  <main class="grilla" id="grilla"></main>
+  <section class="tablero">
+    <div class="grilla" id="grilla"></div>
+  </section>
 
-  <p class="pie">
-    Lo recaudado va en apoyo del <strong>Festival de la Primavera</strong>, una tarde gratuita
-    para la niñez, las juventudes y las familias del barrio. Cada número suma al sorteo y al festival.
-  </p>
+  <p class="pie">Lo recaudado va en apoyo del Festival de la Primavera</p>
 
 </div>
 
 <script>
-  // Colores de las formas y de los papeles más intensos del lenguaje visual,
-  // para que los números se lean bien sobre blanco.
-  const tintas = ["#EF6812", "#0A6986", "#7F70B2", "#BC7612", "#E8505B", "#1E8098"];
-  // La grilla se arma en cuadros de 5 × 5 números, cada uno con su color,
-  // como los cuadros de papel del fondo.
   const grilla = document.getElementById("grilla");
-  for (let fila = 0; fila < 15; fila++) {
-    for (let col = 0; col < 10; col++) {
-      const n = fila * 10 + col + 1;
-      const cuadro = Math.floor(fila / 5) * 2 + Math.floor(col / 5);
-      const celda = document.createElement("div");
-      celda.className = "n";
-      celda.style.color = tintas[cuadro];
-      celda.textContent = n;
-      grilla.appendChild(celda);
-    }
+  for (let n = 1; n <= 150; n++) {
+    const celda = document.createElement("div");
+    celda.className = "n";
+    celda.textContent = n;
+    grilla.appendChild(celda);
   }
 </script>
 </body>
