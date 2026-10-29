@@ -33,29 +33,30 @@
   /* ---------- Encabezado: el fondo de cuadros del festival ---------- */
   .cabeza {
     position: relative;
-    width: 100%; height: 66mm;
+    width: 100%; height: 80mm;
     border-radius: 5mm;
     overflow: hidden;
     background: url("assets/fondo-03-franjas.png") center 42% / cover no-repeat;
     color: #fff;
-    padding: 7mm 8mm;
+    padding: 5mm 8mm;
+    display: flex; align-items: center; justify-content: space-between;
   }
-  .logo { display: block; width: 118mm; }
-  .jdb { position: absolute; top: 6mm; right: 7mm; width: 20mm; }
-  .titular {
-    position: absolute; left: 8mm; right: 8mm; bottom: 6mm;
-    display: flex; align-items: flex-end; justify-content: space-between;
-    font-family: "Krona One", sans-serif;
+  .logo { display: block; height: 70mm; margin-left: -2mm; }
+  .lado {
+    height: 100%;
+    display: flex; flex-direction: column; align-items: flex-end; justify-content: space-between;
+    text-align: right; font-family: "Krona One", sans-serif;
+    padding: 1mm 0 1mm;
   }
+  .jdb { width: 20mm; }
   .rifa { font-size: 40pt; line-height: .9; letter-spacing: .4mm; }
   .rango { font-size: 10.5pt; margin-top: 2.5mm; letter-spacing: .3mm; }
-  .valor { text-align: right; }
-  .valor .monto { font-size: 28pt; line-height: 1; }
-  .valor .por { font-size: 9.5pt; margin-top: 1.5mm; letter-spacing: .3mm; }
+  .monto { font-size: 26pt; line-height: 1; margin-top: 5mm; }
+  .por { font-size: 9.5pt; margin-top: 1.5mm; letter-spacing: .3mm; }
 
   /* ---------- Instrucciones ---------- */
   .instrucciones {
-    margin-top: 6mm; width: 160mm;
+    margin-top: 5mm; width: 160mm;
     text-align: center; font-size: 14pt; line-height: 1.05;
   }
   .sorteo {
@@ -67,7 +68,7 @@
 
   /* ---------- Grilla de números ---------- */
   .grilla {
-    margin-top: 6mm;
+    margin-top: 5mm;
     width: 170mm; flex: 1;
     display: grid;
     grid-template-columns: repeat(10, 1fr);
@@ -95,14 +96,12 @@
 <div class="hoja">
 
   <header class="cabeza">
-    <img class="logo" src="assets/logo-festival-horizontal.svg" alt="Festival de la Primavera 2026">
-    <img class="jdb" src="assets/logo-jovenes-del-barrio.svg" alt="Jóvenes del Barrio">
-    <div class="titular">
+    <img class="logo" src="assets/logo-festival-alto.png" alt="Festival de la Primavera 2026">
+    <div class="lado">
+      <img class="jdb" src="assets/logo-jovenes-del-barrio.svg" alt="Jóvenes del Barrio">
       <div>
         <div class="rifa">RIFA</div>
         <div class="rango">DEL 1 AL 150</div>
-      </div>
-      <div class="valor">
         <div class="monto">$1.000</div>
         <div class="por">EL NÚMERO</div>
       </div>
