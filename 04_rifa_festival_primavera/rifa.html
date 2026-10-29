@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Rifa · Festival de la Primavera 2026</title>
+<style>
+  @font-face { font-family: "Krona One"; src: url("assets/fonts/krona-one-latin.woff2") format("woff2"); }
+  @font-face { font-family: "Gurajada"; src: url("assets/fonts/gurajada-latin.woff2") format("woff2"); }
+
+  @page { size: 215.9mm 279.4mm; margin: 0; }
+
+  :root {
+    --tinta: #2a1d14;
+    --linea: #d8c9b3;
+    --crema: #f3eadb;
+    --naranja: #f85a0a;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 215.9mm; height: 279.4mm; background: #fff; }
+  body {
+    -webkit-print-color-adjust: exact; print-color-adjust: exact;
+    color: var(--tinta);
+    font-family: "Gurajada", sans-serif;
+  }
+
+  .hoja {
+    width: 215.9mm; height: 279.4mm;
+    padding: 7mm;
+    display: flex; flex-direction: column; gap: 4mm;
+  }
+
+  /* ---------- Encabezado: el fondo de cuadros del festival ---------- */
+  .cabeza {
+    position: relative;
+    height: 80mm;
+    border-radius: 5mm;
+    overflow: hidden;
+    background: url("assets/fondo-03-franjas.png") center 40% / cover no-repeat;
+    color: #fff;
+    padding: 7mm 8mm 6mm;
+  }
+  .logo { display: block; width: 122mm; }
+  .jdb { position: absolute; top: 6mm; right: 7mm; width: 21mm; }
+
+  .titular { display: flex; align-items: flex-end; justify-content: space-between; margin-top: 6mm; }
+  .rifa {
+    font-family: "Krona One", sans-serif;
+    font-size: 45pt; line-height: .9; letter-spacing: .5mm;
+  }
+  .rango {
+    font-family: "Krona One", sans-serif;
+    font-size: 11pt; margin-top: 2.5mm; letter-spacing: .3mm;
+  }
+  .valor { text-align: right; font-family: "Krona One", sans-serif; }
+  .valor .monto { font-size: 30pt; line-height: 1; }
+  .valor .por { font-size: 10pt; margin-top: 1.5mm; letter-spacing: .3mm; }
+
+  .datos {
+    position: absolute; left: 8mm; right: 8mm; bottom: 5.5mm;
+    display: grid; grid-template-columns: 1.55fr 1fr; gap: 6mm;
+    font-size: 13pt; line-height: 1; text-transform: uppercase;
+  }
+  .campo { display: flex; align-items: flex-end; gap: 2mm; white-space: nowrap; }
+  .campo .raya { flex: 1; border-bottom: .45mm solid #fff; height: 4.2mm; }
+  .premios { display: grid; gap: 2.2mm; }
+  .lado { display: grid; gap: 2.2mm; align-content: end; }
+  .beneficio { font-size: 13pt; }
+
+  /* ---------- Planilla de números ---------- */
+  .planilla {
+    flex: 1;
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: repeat(15, 1fr);
+    border-top: .3mm solid var(--linea);
+    border-left: .3mm solid var(--linea);
+  }
+  .n {
+    position: relative;
+    border-right: .3mm solid var(--linea);
+    border-bottom: .3mm solid var(--linea);
+  }
+  .n b {
+    position: absolute; top: 1mm; left: 1mm;
+    min-width: 9.2mm; height: 4.6mm; padding: 0 1mm;
+    border-radius: 1.4mm;
+    display: flex; align-items: center; justify-content: center;
+    font-family: "Krona One", sans-serif; font-weight: 400;
+    font-size: 7pt; letter-spacing: .1mm;
+    color: #fff;
+  }
+  .n b.oscuro { color: var(--tinta); }
+  .n i {
+    position: absolute; top: 1.4mm; right: 1.3mm;
+    width: 3.4mm; height: 3.4mm; border-radius: 50%;
+    border: .3mm solid var(--linea);
+  }
+
+  /* ---------- Pie ---------- */
+  .pie {
+    display: grid; grid-template-columns: 1.2fr 1fr auto; gap: 6mm; align-items: end;
+    font-size: 13pt; line-height: 1; text-transform: uppercase;
+  }
+  .pie .campo .raya { border-bottom-color: var(--tinta); border-bottom-width: .3mm; }
+  .nota { display: flex; align-items: center; gap: 1.6mm; font-size: 11.5pt; color: #6b5a4a; }
+  .nota i { width: 3.4mm; height: 3.4mm; border-radius: 50%; border: .3mm solid var(--linea); display: inline-block; }
+</style>
+</head>
+<body>
+<div class="hoja">
+
+  <header class="cabeza">
+    <img class="logo" src="assets/logo-festival-horizontal.svg" alt="Festival de la Primavera 2026">
+    <img class="jdb" src="assets/logo-jovenes-del-barrio.svg" alt="Jóvenes del Barrio">
+
+    <div class="titular">
+      <div>
+        <div class="rifa">RIFA</div>
+        <div class="rango">DEL 1 AL 150</div>
+      </div>
+      <div class="valor">
+        <div class="monto">$1.000</div>
+        <div class="por">EL NÚMERO</div>
+      </div>
+    </div>
+
+    <div class="datos">
+      <div class="premios">
+        <div class="campo">1° premio <span class="raya"></span></div>
+        <div class="campo">2° premio <span class="raya"></span></div>
+        <div class="campo">3° premio <span class="raya"></span></div>
+      </div>
+      <div class="lado">
+        <div class="beneficio">A beneficio del Festival de la Primavera</div>
+        <div class="campo">Sorteo <span class="raya"></span></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="planilla" id="planilla"></main>
+
+  <footer class="pie">
+    <div class="campo">Vende <span class="raya"></span></div>
+    <div class="campo">Teléfono <span class="raya"></span></div>
+    <div class="nota"><i></i> Marca el círculo cuando el número esté pagado</div>
+  </footer>
+
+</div>
+
+<script>
+  // Los diez papeles del lenguaje visual (arriba → abajo).
+  const papeles = [
+    ["#EF6812", "#EE7419", false], // naranja
+    ["#0A6986", "#1E8098", false], // azul
+    ["#F2737A", "#F48C84", false], // rosado
+    ["#C98A2C", "#BC7612", false], // oliva
+    ["#7F70B2", "#A56A86", false], // morado
+    ["#F1633A", "#F39C27", false], // salmón
+    ["#7CC6C3", "#6EBDBA", true],  // turquesa
+    ["#F4735E", "#F59262", false], // coral
+    ["#F3BC33", "#EFA21A", true],  // amarillo
+    ["#C8CB14", "#D3C21C", true],  // lima
+  ];
+  // Cada columna toma un papel y cada franja de 5 filas corre los colores,
+  // así la planilla se arma en cuadros como el fondo y no en rayas parejas.
+  const planilla = document.getElementById("planilla");
+  for (let fila = 0; fila < 15; fila++) {
+    for (let col = 0; col < 10; col++) {
+      const n = fila * 10 + col + 1;
+      const franja = Math.floor(fila / 5);
+      const [a, b, oscuro] = papeles[(col * 3 + franja * 7) % papeles.length];
+      const celda = document.createElement("div");
+      celda.className = "n";
+      celda.innerHTML = `<b class="${oscuro ? "oscuro" : ""}" style="background:linear-gradient(${a},${b})">${n}</b><i></i>`;
+      planilla.appendChild(celda);
+    }
+  }
+</script>
+</body>
+</html>
